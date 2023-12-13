@@ -1,0 +1,12 @@
+name: nfl-app
+title: nfl-app
+username: nol6n
+account: nol6n
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10786466
+bundleId: 8042598
+url: https://nol6n.shinyapps.io/nfl-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

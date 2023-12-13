@@ -1,0 +1,19 @@
+## Author
+
+ - **Name:** Nolan Enright
+ - **Email:** nolanje2@illinois.edu
+ 
+ ## Purpose
+ 
+Welcome to my innovative NFL Scoring app! Designed for football enthusiasts and teams seeking player insights, this app offers a unique perspective on player performance in the NFL. With a focus on touchdown statistics, the app allows users to identify top-performing players in a specific game, providing valuable insights for both fans and teams alike. The easy to use layout featuring drop down menus, control a beautiful distribution of player vs total touchdowns. Additionally, users can navigate to the table to get play by play information and can even filter to touchdown plays of the specific game! What sets my app apart is its ability to differentiate between multiple games involving the same teams, giving users a comprehensive view of players progress over time. Whether you're a football fan or team staff seeking a competitive edge, my app will be able to assist you.
+
+## Data
+
+The data is from nflfastR downloaded using nflreadR, a popular open source package that contains NFL play-by-play data from 1999 to the current season and is updated as games end. This app uses the 2023 season play-by-play data specifically. When loading this data in, I was greeted with a very raw data set that had upwards of 370 variables. Upon creating goals for the project, I carefully selected variables useful to better achieve and vastly improve the accessibility to users so the average fan can understand and not be too overwhelmed.
+
+## References
+- [nflfastR](https://www.nflfastr.com/LICENSE.html)
+- [nflreadR](https://nflreadr.nflverse.com/LICENSE.html)
+- [Dplyr Coalesce Function](https://dplyr.tidyverse.org/reference/coalesce.html)
+- [Stack Overflow Aid](https://stackoverflow.com/questions/66530184/r-shiny-observeevent-with-multiple-inputs)
+
