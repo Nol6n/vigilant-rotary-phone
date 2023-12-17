@@ -34082,7 +34082,7 @@ game_date,home_team,away_team,defteam,yrdln,play_type,td_team,td_player_name,rec
 2023-12-10,NO,CAR,CAR,NO 46,pass,NA,NA,J.Johnson,NA,Turnover
 2023-12-10,NO,CAR,CAR,CAR 47,pass,NA,NA,C.Olave,NA,Turnover
 2023-12-10,NO,CAR,CAR,CAR 41,pass,NA,NA,A.Kamara,NA,Turnover
-2023-12-10,NO,CAR,CAR,NO 49,pass,NA,NA,A.Kamara,NA,Turnover
+2023-12-10,NO,CAR,CAR,NO 49,pass,NA,NA,J.Johnson,NA,Turnover
 2023-12-10,NO,CAR,NO,NO 45,pass,NA,NA,J.Mingo,NA,Turnover on downs
 2023-12-10,NO,CAR,NO,NO 45,pass,NA,NA,J.Mingo,NA,Turnover on downs
 2023-12-10,NO,CAR,NO,NO 45,pass,NA,NA,S.Sullivan,NA,Turnover on downs
@@ -34460,7 +34460,7 @@ game_date,home_team,away_team,defteam,yrdln,play_type,td_team,td_player_name,rec
 2023-12-10,CHI,DET,DET,DET 43,pass,NA,NA,C.Kmet,NA,Touchdown
 2023-12-10,CHI,DET,DET,DET 35,pass,NA,NA,K.Blasingame,NA,Touchdown
 2023-12-10,CHI,DET,DET,DET 38,run,NA,NA,NA,J.Fields,Touchdown
-2023-12-10,CHI,DET,DET,DET 38,pass,NA,NA,C.Kmet,NA,Touchdown
+2023-12-10,CHI,DET,DET,DET 38,pass,NA,NA,NA,NA,Touchdown
 2023-12-10,CHI,DET,DET,DET 38,pass,CHI,D.Moore,D.Moore,NA,Touchdown
 2023-12-10,CHI,DET,DET,DET 15,extra_point,NA,NA,NA,NA,Touchdown
 2023-12-10,CHI,DET,CHI,CHI 35,kickoff,NA,NA,NA,NA,Turnover
@@ -34510,7 +34510,7 @@ game_date,home_team,away_team,defteam,yrdln,play_type,td_team,td_player_name,rec
 2023-12-10,CHI,DET,CHI,DET 42,pass,NA,NA,NA,NA,Turnover
 2023-12-10,CHI,DET,NA,DET 33,no_play,NA,NA,NA,NA,Turnover
 2023-12-10,CHI,DET,CHI,DET 33,no_play,NA,NA,NA,NA,Turnover
-2023-12-10,CHI,DET,CHI,DET 38,pass,NA,NA,A.St. Brown,NA,Turnover
+2023-12-10,CHI,DET,CHI,DET 38,pass,NA,NA,J.Williams,NA,Turnover
 2023-12-10,CHI,DET,DET,CHI 38,run,NA,NA,NA,D.Foreman,End of half
 2023-12-10,CHI,DET,DET,CHI 43,run,NA,NA,NA,D.Foreman,End of half
 2023-12-10,CHI,DET,DET,MID 50,qb_kneel,NA,NA,NA,J.Fields,End of half
@@ -35263,7 +35263,7 @@ game_date,home_team,away_team,defteam,yrdln,play_type,td_team,td_player_name,rec
 2023-12-10,BAL,LA,LA,BAL 45,pass,NA,NA,K.Mitchell,NA,Punt
 2023-12-10,BAL,LA,LA,BAL 45,punt,NA,NA,NA,NA,Punt
 2023-12-10,BAL,LA,BAL,LA 8,pass,NA,NA,P.Nacua,NA,Punt
-2023-12-10,BAL,LA,BAL,LA 25,pass,NA,NA,NA,NA,Punt
+2023-12-10,BAL,LA,BAL,LA 25,pass,NA,NA,P.Nacua,NA,Punt
 2023-12-10,BAL,LA,BAL,LA 25,pass,NA,NA,P.Nacua,NA,Punt
 2023-12-10,BAL,LA,BAL,LA 29,pass,NA,NA,NA,NA,Punt
 2023-12-10,BAL,LA,BAL,LA 21,punt,NA,NA,NA,NA,Punt
@@ -36484,3 +36484,702 @@ game_date,home_team,away_team,defteam,yrdln,play_type,td_team,td_player_name,rec
 2023-12-11,MIA,TEN,TEN,MIA 45,pass,NA,NA,NA,NA,Turnover on downs
 2023-12-11,MIA,TEN,MIA,MIA 42,qb_kneel,NA,NA,NA,W.Levis,End of half
 2023-12-11,MIA,TEN,MIA,NA,NA,NA,NA,NA,NA,End of half
+2023-12-16,DET,DEN,NA,DEN 35,NA,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 25,pass,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 25,pass,NA,NA,A.St. Brown,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 46,pass,NA,NA,J.Williams,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 46,pass,NA,NA,D.Montgomery,NA,Punt
+2023-12-16,DET,DEN,DEN,MID 50,pass,NA,NA,D.Montgomery,NA,Punt
+2023-12-16,DET,DEN,DEN,MID 50,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 29,pass,NA,NA,J.Jeudy,NA,Turnover
+2023-12-16,DET,DEN,DET,DET 31,run,NA,NA,NA,M.Mims,Turnover
+2023-12-16,DET,DEN,DET,DET 20,pass,NA,NA,J.McLaughlin,NA,Turnover
+2023-12-16,DET,DEN,DET,DET 20,pass,NA,NA,NA,NA,Turnover
+2023-12-16,DET,DEN,DEN,DEN 37,pass,NA,NA,J.Williams,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 36,run,NA,NA,NA,D.Montgomery,Punt
+2023-12-16,DET,DEN,DEN,DEN 32,pass,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 39,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 20,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 21,pass,NA,NA,M.Mims,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 21,pass,NA,NA,J.Jeudy,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 21,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 27,run,NA,NA,NA,J.Gibbs,Punt
+2023-12-16,DET,DEN,DEN,DET 35,no_play,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 25,pass,NA,NA,J.Williams,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 39,pass,NA,NA,K.Raymond,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 49,run,NA,NA,NA,J.Gibbs,Punt
+2023-12-16,DET,DEN,DEN,DEN 48,pass,NA,NA,J.Gibbs,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 49,pass,NA,NA,J.Williams,NA,Punt
+2023-12-16,DET,DEN,DEN,DEN 49,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 16,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 18,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 22,no_play,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 17,pass,NA,NA,C.Sutton,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 40,run,NA,NA,NA,S.Perine,Punt
+2023-12-16,DET,DEN,DET,DEN 46,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 46,pass,NA,NA,A.Trautman,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 46,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 20,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DET 26,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DET 31,pass,NA,NA,S.LaPorta,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 48,NA,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 48,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DET 48,pass,NA,NA,D.Peoples-Jones,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 47,pass,NA,NA,S.LaPorta,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 40,pass,NA,NA,J.Reynolds,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 19,pass,DET,S.LaPorta,S.LaPorta,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 25,pass,NA,NA,J.Jeudy,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 25,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 22,pass,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 13,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 39,pass,NA,NA,J.Reynolds,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 41,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 20,pass,NA,NA,D.Montgomery,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 27,pass,NA,NA,J.Williams,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 9,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 9,pass,DET,J.Gibbs,J.Gibbs,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 21,pass,NA,NA,J.McLaughlin,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 29,run,NA,NA,NA,J.McLaughlin,Punt
+2023-12-16,DET,DEN,DET,DEN 30,run,NA,NA,NA,R.Wilson,Punt
+2023-12-16,DET,DEN,DET,DEN 30,run,NA,NA,NA,R.Wilson,Punt
+2023-12-16,DET,DEN,DET,DEN 32,run,NA,NA,NA,J.Williams,Punt
+2023-12-16,DET,DEN,DET,DEN 34,pass,NA,NA,J.Williams,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 32,pass,NA,NA,J.Jeudy,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 32,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 19,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DET 21,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 29,pass,NA,NA,J.Reynolds,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 29,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 42,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,NA,DEN 34,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 34,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 33,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 29,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 18,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,NA,DEN 15,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,pass,DET,A.St. Brown,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,End of half
+2023-12-16,DET,DEN,DET,DEN 25,qb_kneel,NA,NA,NA,R.Wilson,End of half
+2023-12-16,DET,DEN,NA,DET 35,NA,NA,NA,NA,NA,End of half
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DEN 25,run,NA,NA,NA,J.Williams,Touchdown
+2023-12-16,DET,DEN,DET,DEN 28,pass,NA,NA,J.Williams,NA,Touchdown
+2023-12-16,DET,DEN,DET,DEN 23,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 33,run,NA,NA,NA,S.Perine,Touchdown
+2023-12-16,DET,DEN,DET,DET 31,pass,NA,NA,C.Sutton,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 17,run,NA,NA,NA,J.Williams,Touchdown
+2023-12-16,DET,DEN,DET,DET 11,pass,NA,NA,A.Trautman,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 11,pass,NA,NA,L.Humphrey,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 6,run,NA,NA,NA,S.Perine,Touchdown
+2023-12-16,DET,DEN,DET,DET 3,pass,NA,NA,B.Johnson,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 3,pass,DEN,L.Humphrey,L.Humphrey,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 25,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 49,pass,NA,NA,J.Williams,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 49,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 49,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 38,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 4,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 3,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 3,pass,DET,S.LaPorta,S.LaPorta,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,Field goal
+2023-12-16,DET,DEN,DET,DEN 25,pass,NA,NA,C.Sutton,NA,Field goal
+2023-12-16,DET,DEN,DET,DEN 33,run,NA,NA,NA,J.McLaughlin,Field goal
+2023-12-16,DET,DEN,DET,DEN 34,run,NA,NA,NA,R.Wilson,Field goal
+2023-12-16,DET,DEN,DET,DEN 36,pass,NA,NA,A.Trautman,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 40,pass,NA,NA,L.Krull,NA,Field goal
+2023-12-16,DET,DEN,NA,DET 40,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 40,run,NA,NA,NA,J.Williams,Field goal
+2023-12-16,DET,DEN,DET,DET 40,pass,NA,NA,J.Jeudy,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 21,pass,NA,NA,C.Sutton,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 9,pass,NA,NA,C.Sutton,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 9,pass,NA,NA,J.McLaughlin,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 1,run,NA,NA,NA,J.Williams,Field goal
+2023-12-16,DET,DEN,DET,DET 1,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,DET,DEN,DET,DET 5,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,DET,DEN,DEN,DEN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 25,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DET 32,NA,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 32,pass,NA,NA,J.Williams,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DET 46,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,MID 50,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 41,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 25,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 12,run,DET,J.Gibbs,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 25,run,NA,NA,NA,R.Wilson,Punt
+2023-12-16,DET,DEN,DET,DEN 26,pass,NA,NA,L.Krull,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 44,pass,NA,NA,L.Krull,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 44,pass,NA,NA,J.Jeudy,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 44,pass,NA,NA,M.Mims,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 44,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 23,pass,NA,NA,S.LaPorta,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 23,run,NA,NA,NA,J.Gibbs,Punt
+2023-12-16,DET,DEN,DEN,DET 22,pass,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DEN,DET 14,punt,NA,NA,NA,NA,Punt
+2023-12-16,DET,DEN,DET,DEN 38,pass,NA,NA,S.Perine,NA,Touchdown
+2023-12-16,DET,DEN,DET,DEN 49,pass,NA,NA,J.Jeudy,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 36,pass,NA,NA,C.Sutton,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 22,pass,NA,NA,L.Humphrey,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 22,pass,NA,NA,L.Humphrey,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 14,run,NA,NA,NA,R.Wilson,Touchdown
+2023-12-16,DET,DEN,DET,DET 13,run,NA,NA,NA,S.Perine,Touchdown
+2023-12-16,DET,DEN,DET,DET 1,run,DEN,R.Wilson,NA,R.Wilson,Touchdown
+2023-12-16,DET,DEN,DET,DET 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 44,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 42,pass,NA,NA,A.St. Brown,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 32,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,NA,DEN 27,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 27,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,NA,DEN 18,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 18,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 16,run,NA,NA,NA,D.Montgomery,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 14,run,NA,NA,NA,J.Gibbs,Touchdown
+2023-12-16,DET,DEN,NA,DEN 10,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 10,pass,DET,S.LaPorta,S.LaPorta,NA,Touchdown
+2023-12-16,DET,DEN,DEN,DEN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,DET,DEN,DET,DET 35,kickoff,NA,NA,NA,NA,End of half
+2023-12-16,DET,DEN,DET,DEN 21,run,NA,NA,NA,J.Williams,End of half
+2023-12-16,DET,DEN,DET,DEN 25,run,NA,NA,NA,J.Williams,End of half
+2023-12-16,DET,DEN,DET,DEN 33,run,NA,NA,NA,S.Perine,End of half
+2023-12-16,DET,DEN,DET,DEN 38,run,NA,NA,NA,S.Perine,End of half
+2023-12-16,DET,DEN,DET,NA,NA,NA,NA,NA,NA,End of half
+2023-12-14,LV,LAC,NA,LV 35,NA,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 29,run,NA,NA,NA,A.Ekeler,Punt
+2023-12-14,LV,LAC,LV,LAC 35,pass,NA,NA,A.Ekeler,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,pass,NA,NA,G.Everett,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 32,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LV 40,pass,NA,NA,T.Tucker,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LV 40,run,NA,NA,NA,A.Abdullah,Touchdown
+2023-12-14,LV,LAC,LAC,LV 46,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LV 46,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 47,run,NA,NA,NA,A.Abdullah,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 42,run,NA,NA,NA,B.Bolden,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 43,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 38,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 14,pass,NA,NA,J.Meyers,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 14,pass,NA,NA,M.Mayer,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 14,pass,NA,NA,M.Mayer,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 1,run,LV,Z.White,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Turnover
+2023-12-14,LV,LAC,LV,LAC 21,pass,NA,NA,J.Guyton,NA,Turnover
+2023-12-14,LV,LAC,LV,LAC 35,pass,NA,NA,G.Everett,NA,Turnover
+2023-12-14,LV,LAC,LV,LAC 48,run,NA,NA,NA,J.Kelley,Turnover
+2023-12-14,LV,LAC,LV,LAC 48,pass,NA,NA,NA,NA,Turnover
+2023-12-14,LV,LAC,LAC,LAC 42,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 40,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 40,pass,NA,NA,M.Mayer,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 30,pass,LV,T.Tucker,T.Tucker,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Turnover
+2023-12-14,LV,LAC,LV,LAC 25,run,NA,NA,NA,J.Kelley,Turnover
+2023-12-14,LV,LAC,LAC,LAC 31,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 36,pass,NA,NA,T.Tucker,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 27,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 22,pass,LV,J.Meyers,J.Meyers,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 27,no_play,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 17,pass,NA,NA,G.Everett,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 27,pass,NA,NA,G.Everett,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 38,pass,NA,NA,S.Smartt,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 42,run,NA,NA,NA,A.Ekeler,Punt
+2023-12-14,LV,LAC,LV,LAC 43,pass,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,NA,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 18,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 18,pass,NA,NA,Z.White,NA,Punt
+2023-12-14,LV,LAC,NA,LV 18,no_play,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 18,pass,NA,NA,A.Abdullah,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 26,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 21,no_play,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 26,run,NA,NA,NA,I.Spiller,Punt
+2023-12-14,LV,LAC,LV,LAC 27,pass,NA,NA,S.Smartt,NA,Punt
+2023-12-14,LV,LAC,NA,LAC 33,no_play,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 33,run,NA,NA,NA,I.Spiller,Punt
+2023-12-14,LV,LAC,LV,LAC 36,pass,NA,NA,A.Erickson,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,pass,NA,NA,A.Ekeler,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 36,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 30,pass,NA,NA,D.Adams,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 30,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 36,pass,NA,NA,D.Adams,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 36,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LAC 14,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 11,pass,LV,M.Mayer,M.Mayer,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 25,pass,NA,NA,D.Davis,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 23,no_play,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 13,pass,NA,NA,Q.Johnston,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 30,pass,NA,NA,G.Everett,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 30,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 35,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LV 38,pass,NA,NA,Z.White,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LV 43,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 33,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 24,run,NA,NA,NA,T.Tucker,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 26,run,LV,B.Bolden,NA,B.Bolden,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Turnover on downs
+2023-12-14,LV,LAC,LV,LAC 25,pass,NA,NA,G.Everett,NA,Turnover on downs
+2023-12-14,LV,LAC,LV,LAC 40,run,NA,NA,NA,I.Spiller,Turnover on downs
+2023-12-14,LV,LAC,LV,LAC 41,run,NA,NA,NA,I.Spiller,Turnover on downs
+2023-12-14,LV,LAC,LV,LAC 49,run,NA,NA,NA,A.Ekeler,Turnover on downs
+2023-12-14,LV,LAC,LV,LAC 49,run,NA,NA,NA,A.Ekeler,Turnover on downs
+2023-12-14,LV,LAC,LAC,LAC 49,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 40,pass,NA,NA,Z.White,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 34,pass,NA,NA,H.Renfrow,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 34,run,NA,NA,NA,A.Abdullah,Touchdown
+2023-12-14,LV,LAC,NA,LAC 25,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 25,run,NA,NA,NA,A.Abdullah,Touchdown
+2023-12-14,LV,LAC,NA,LAC 20,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 20,pass,LV,T.Tucker,T.Tucker,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,End of half
+2023-12-14,LV,LAC,LV,LAC 25,run,NA,NA,NA,I.Spiller,End of half
+2023-12-14,LV,LAC,NA,LAC 35,NA,NA,NA,NA,NA,End of half
+2023-12-14,LV,LAC,LAC,LAC 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LV 25,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LV 29,pass,NA,NA,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LV 47,run,NA,NA,NA,Z.White,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 38,pass,NA,NA,J.Meyers,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 38,pass,NA,NA,A.Hooper,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 38,run,NA,NA,NA,A.Abdullah,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 18,pass,NA,NA,J.Meyers,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 8,pass,NA,NA,Z.White,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 3,pass,LV,D.Adams,D.Adams,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LAC 21,pass,LAC,J.Palmer,J.Palmer,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 25,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 29,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 31,pass,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 25,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 10,pass,NA,NA,A.Ekeler,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 14,run,NA,NA,NA,A.Ekeler,Punt
+2023-12-14,LV,LAC,LV,LAC 16,pass,NA,NA,J.Palmer,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 18,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 22,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 27,pass,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 27,pass,NA,NA,M.Mayer,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 32,pass,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 32,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 34,pass,NA,NA,A.Abdullah,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 39,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 20,run,NA,NA,NA,I.Spiller,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 25,pass,NA,NA,G.Everett,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 29,run,NA,NA,NA,E.Stick,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 31,pass,NA,NA,A.Ekeler,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 43,pass,NA,NA,Q.Johnston,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 43,pass,NA,NA,J.Kelley,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 49,pass,NA,NA,J.Guyton,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LV 46,pass,LV,J.Jenkins,NA,NA,Opp touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LV 35,NA,NA,NA,NA,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 25,run,NA,NA,NA,I.Spiller,Opp touchdown
+2023-12-14,LV,LAC,LV,LAC 22,pass,LV,J.Jones,A.Ekeler,NA,Opp touchdown
+2023-12-14,LV,LAC,LAC,LAC 15,extra_point,NA,NA,NA,NA,Opp touchdown
+2023-12-14,LV,LAC,LV,LV 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LAC 25,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,NA,LAC 26,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LAC 26,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,LAC 31,pass,NA,NA,S.Smartt,NA,Touchdown
+2023-12-14,LV,LAC,LV,LAC 36,run,NA,NA,NA,J.Kelley,Touchdown
+2023-12-14,LV,LAC,LV,LAC 37,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,LAC 41,run,NA,NA,NA,E.Stick,Touchdown
+2023-12-14,LV,LAC,LV,MID 50,pass,NA,NA,D.Davis,NA,Touchdown
+2023-12-14,LV,LAC,LV,MID 50,pass,NA,NA,A.Ekeler,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 38,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,LV 38,pass,NA,NA,J.Palmer,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 13,pass,LAC,A.Erickson,A.Erickson,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 23,pass,NA,NA,D.Adams,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 30,pass,NA,NA,H.Renfrow,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 30,run,NA,NA,NA,A.Abdullah,Punt
+2023-12-14,LV,LAC,LAC,LV 32,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 45,pass,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LAC 45,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,MID 50,pass,NA,NA,J.Palmer,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 43,run,NA,NA,NA,J.Kelley,Touchdown
+2023-12-14,LV,LAC,LV,LV 37,run,NA,NA,NA,J.Kelley,Touchdown
+2023-12-14,LV,LAC,LV,LV 26,pass,NA,NA,G.Everett,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 24,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 19,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,LV 13,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,NA,LV 6,no_play,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 6,run,NA,NA,NA,I.Spiller,Touchdown
+2023-12-14,LV,LAC,LV,LV 6,pass,LAC,Q.Johnston,Q.Johnston,NA,Touchdown
+2023-12-14,LV,LAC,LV,LV 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-14,LV,LAC,LAC,LAC 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LAC,LV 25,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 32,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 33,run,NA,NA,NA,Z.White,Punt
+2023-12-14,LV,LAC,LAC,LV 34,punt,NA,NA,NA,NA,Punt
+2023-12-14,LV,LAC,LV,LAC 22,run,NA,NA,NA,I.Spiller,End of half
+2023-12-14,LV,LAC,LV,NA,NA,NA,NA,NA,NA,End of half
+2023-12-16,CIN,MIN,NA,MIN 35,NA,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 25,pass,NA,NA,T.Higgins,NA,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 25,pass,NA,NA,C.Brown,NA,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 38,run,NA,NA,NA,C.Brown,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 37,pass,NA,NA,M.Wilcox,NA,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 47,run,NA,NA,NA,J.Browning,Field goal
+2023-12-16,CIN,MIN,MIN,MID 50,pass,NA,NA,I.Smith,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 46,pass,NA,NA,J.Chase,NA,Field goal
+2023-12-16,CIN,MIN,NA,MIN 21,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 21,run,NA,NA,NA,J.Mixon,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 17,pass,NA,NA,T.Hudson,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 12,pass,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 16,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 25,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 34,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 34,run,NA,NA,NA,N.Mullens,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 36,pass,NA,NA,J.Jefferson,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 47,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 40,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 36,pass,NA,NA,T.Hockenson,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 27,run,NA,NA,NA,N.Mullens,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 26,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 18,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 17,pass,NA,NA,T.Chandler,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 1,run,MIN,T.Chandler,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 25,pass,NA,NA,T.Boyd,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 25,run,NA,NA,NA,J.Mixon,Punt
+2023-12-16,CIN,MIN,MIN,CIN 33,pass,NA,NA,T.Higgins,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 33,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 19,run,NA,NA,NA,T.Chandler,Punt
+2023-12-16,CIN,MIN,CIN,MIN 22,pass,NA,NA,T.Chandler,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 22,pass,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 13,NA,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 13,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 39,pass,NA,NA,C.Brown,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 48,run,NA,NA,NA,C.Brown,Punt
+2023-12-16,CIN,MIN,MIN,CIN 49,pass,NA,NA,C.Brown,NA,Punt
+2023-12-16,CIN,MIN,MIN,MIN 45,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 45,pass,NA,NA,J.Chase,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 44,pass,NA,NA,C.Jones,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 44,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 16,run,NA,NA,NA,K.Nwangwu,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 17,pass,NA,NA,J.Jefferson,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 17,no_play,NA,NA,NA,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 12,pass,NA,NA,T.Hockenson,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 28,pass,NA,NA,K.Osborn,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 31,pass,NA,NA,J.Oliver,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 43,pass,NA,NA,J.Addison,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 38,run,NA,NA,NA,T.Chandler,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 30,pass,NA,NA,J.Mundt,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 27,pass,NA,NA,K.Osborn,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 27,run,NA,NA,NA,T.Chandler,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 25,pass,NA,NA,T.Hockenson,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 15,run,NA,NA,NA,T.Chandler,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 16,run,NA,NA,NA,N.Mullens,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 14,pass,NA,NA,J.Jefferson,NA,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 17,run,NA,NA,NA,C.Brown,Punt
+2023-12-16,CIN,MIN,MIN,CIN 20,run,NA,NA,NA,J.Mixon,Punt
+2023-12-16,CIN,MIN,MIN,CIN 24,pass,NA,NA,T.Hudson,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 34,pass,NA,NA,D.Sample,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 34,pass,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,NA,CIN 20,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 20,run,NA,NA,NA,T.Williams,Punt
+2023-12-16,CIN,MIN,NA,CIN 30,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 30,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 34,pass,NA,NA,J.Jefferson,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 40,pass,NA,NA,J.Addison,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 25,pass,NA,NA,J.Jefferson,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 16,pass,NA,NA,NA,NA,Turnover
+2023-12-16,CIN,MIN,NA,CIN 22,no_play,NA,NA,NA,NA,Turnover
+2023-12-16,CIN,MIN,CIN,CIN 22,pass,NA,NA,NA,NA,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 30,pass,NA,NA,NA,NA,End of half
+2023-12-16,CIN,MIN,NA,CIN 30,no_play,NA,NA,NA,NA,End of half
+2023-12-16,CIN,MIN,MIN,CIN 30,pass,NA,NA,T.Higgins,NA,End of half
+2023-12-16,CIN,MIN,MIN,CIN 30,run,NA,NA,NA,C.Brown,End of half
+2023-12-16,CIN,MIN,NA,CIN 35,NA,NA,NA,NA,NA,End of half
+2023-12-16,CIN,MIN,CIN,CIN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 8,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 32,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 35,pass,NA,NA,J.Jefferson,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 47,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 49,pass,NA,NA,J.Addison,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 39,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 39,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 37,pass,MIN,J.Addison,J.Addison,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 25,run,NA,NA,NA,J.Mixon,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 32,run,NA,NA,NA,C.Brown,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 37,pass,NA,NA,C.Jones,NA,Turnover
+2023-12-16,CIN,MIN,MIN,CIN 40,pass,NA,NA,I.Smith,NA,Turnover
+2023-12-16,CIN,MIN,CIN,MIN 43,run,NA,NA,NA,T.Chandler,Field goal
+2023-12-16,CIN,MIN,CIN,MIN 47,pass,NA,NA,J.Jefferson,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 39,pass,NA,NA,T.Chandler,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 34,pass,NA,NA,J.Jefferson,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 27,run,NA,NA,NA,T.Chandler,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 18,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 23,pass,NA,NA,J.Oliver,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 21,pass,NA,NA,T.Hockenson,NA,Field goal
+2023-12-16,CIN,MIN,CIN,CIN 21,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 25,run,NA,NA,NA,C.Brown,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 31,pass,NA,NA,J.Mixon,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 34,pass,NA,NA,T.Hudson,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 41,pass,NA,NA,T.Hudson,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 45,pass,NA,NA,I.Smith,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 31,pass,NA,NA,T.Williams,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 29,pass,NA,NA,J.Chase,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 13,NA,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 13,pass,CIN,T.Higgins,T.Higgins,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 25,run,NA,NA,NA,T.Chandler,Punt
+2023-12-16,CIN,MIN,CIN,MIN 27,pass,NA,NA,J.Jefferson,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 27,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 22,pass,NA,NA,T.Hockenson,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 30,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 37,pass,NA,NA,J.Mixon,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 44,run,NA,NA,NA,J.Mixon,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 46,pass,NA,NA,T.Higgins,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 32,pass,NA,NA,T.Boyd,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 32,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 43,pass,NA,NA,J.Chase,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 19,pass,NA,NA,M.Wilcox,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 9,run,NA,NA,NA,J.Mixon,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 3,run,NA,NA,NA,J.Mixon,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 1,run,NA,NA,NA,J.Browning,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 1,run,CIN,J.Mixon,NA,J.Mixon,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 25,pass,NA,NA,J.Jefferson,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 44,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 44,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,MIN 49,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 44,pass,NA,NA,J.Addison,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 35,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 31,run,NA,NA,NA,T.Chandler,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 1,pass,MIN,J.Addison,J.Addison,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 25,pass,NA,NA,T.Hudson,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 38,pass,NA,NA,J.Mixon,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,CIN 42,pass,NA,NA,T.Boyd,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 49,run,NA,NA,NA,C.Brown,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 46,pass,NA,NA,T.Higgins,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 33,pass,NA,NA,C.Jones,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 26,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 26,pass,NA,NA,A.Iosivas,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 21,pass,NA,NA,T.Boyd,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 21,pass,CIN,T.Higgins,T.Higgins,NA,Touchdown
+2023-12-16,CIN,MIN,MIN,MIN 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,CIN,MIN,CIN,CIN 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 25,pass,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,NA,MIN 18,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 18,pass,NA,NA,T.Chandler,NA,Punt
+2023-12-16,CIN,MIN,NA,MIN 22,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 22,run,NA,NA,NA,N.Mullens,Punt
+2023-12-16,CIN,MIN,NA,MIN 27,no_play,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 27,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 20,qb_kneel,NA,NA,NA,J.Browning,End of half
+2023-12-16,CIN,MIN,NA,MIN 35,NA,NA,NA,NA,NA,End of half
+2023-12-16,CIN,MIN,MIN,MIN 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 25,pass,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 24,pass,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 17,pass,NA,NA,T.Higgins,NA,Punt
+2023-12-16,CIN,MIN,MIN,CIN 17,punt,NA,NA,NA,NA,Punt
+2023-12-16,CIN,MIN,CIN,MIN 37,pass,NA,NA,T.Hockenson,NA,Turnover on downs
+2023-12-16,CIN,MIN,CIN,MIN 49,run,NA,NA,NA,T.Chandler,Turnover on downs
+2023-12-16,CIN,MIN,CIN,MID 50,pass,NA,NA,T.Hockenson,NA,Turnover on downs
+2023-12-16,CIN,MIN,NA,CIN 42,no_play,NA,NA,NA,NA,Turnover on downs
+2023-12-16,CIN,MIN,CIN,CIN 42,run,NA,NA,NA,N.Mullens,Turnover on downs
+2023-12-16,CIN,MIN,CIN,CIN 42,run,NA,NA,NA,N.Mullens,Turnover on downs
+2023-12-16,CIN,MIN,MIN,CIN 42,run,NA,NA,NA,J.Mixon,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 43,pass,NA,NA,A.Iosivas,NA,Field goal
+2023-12-16,CIN,MIN,MIN,CIN 43,pass,NA,NA,T.Boyd,NA,Field goal
+2023-12-16,CIN,MIN,NA,MIN 13,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 13,run,NA,NA,NA,J.Mixon,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 9,qb_kneel,NA,NA,NA,J.Browning,Field goal
+2023-12-16,CIN,MIN,MIN,MIN 11,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,CIN,MIN,MIN,NA,NA,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,NA,IND 35,NA,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 38,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,PIT 38,pass,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 34,pass,NA,NA,J.Warren,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 38,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 31,pass,NA,NA,Z.Moss,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,IND 32,pass,NA,NA,M.Pittman,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,IND 39,pass,NA,NA,M.Pittman,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,IND 47,pass,NA,NA,J.Downs,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 47,run,NA,NA,NA,Z.Moss,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 44,run,NA,NA,NA,Z.Moss,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 42,pass,NA,NA,Z.Moss,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 39,pass,NA,NA,NA,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 45,pass,NA,NA,J.Downs,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 37,field_goal,NA,NA,NA,NA,Missed field goal
+2023-12-16,IND,PIT,IND,PIT 46,pass,NA,NA,A.Robinson,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 46,run,NA,NA,NA,N.Harris,Touchdown
+2023-12-16,IND,PIT,IND,IND 47,pass,NA,NA,P.Freiermuth,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 42,run,NA,NA,NA,J.Warren,Touchdown
+2023-12-16,IND,PIT,IND,IND 38,pass,NA,NA,J.Warren,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 38,pass,NA,NA,G.Pickens,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 23,run,NA,NA,NA,N.Harris,Touchdown
+2023-12-16,IND,PIT,IND,IND 22,pass,NA,NA,G.Pickens,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 7,run,NA,NA,NA,J.Warren,Touchdown
+2023-12-16,IND,PIT,IND,IND 1,run,NA,NA,NA,J.Warren,Touchdown
+2023-12-16,IND,PIT,IND,IND 1,run,NA,NA,NA,M.Trubisky,Touchdown
+2023-12-16,IND,PIT,IND,IND 1,run,PIT,M.Trubisky,NA,M.Trubisky,Touchdown
+2023-12-16,IND,PIT,IND,IND 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 25,run,NA,NA,NA,Z.Moss,Punt
+2023-12-16,IND,PIT,PIT,IND 28,pass,NA,NA,M.Pittman,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 28,pass,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 25,NA,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 25,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,IND 1,run,NA,NA,NA,N.Harris,Touchdown
+2023-12-16,IND,PIT,IND,IND 4,pass,PIT,D.Johnson,D.Johnson,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 35,kickoff,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,IND 25,pass,NA,NA,A.Pierce,NA,Touchdown
+2023-12-16,IND,PIT,PIT,IND 25,pass,NA,NA,M.Pittman,NA,Touchdown
+2023-12-16,IND,PIT,PIT,IND 46,run,NA,NA,NA,Z.Moss,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 49,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 49,pass,NA,NA,M.Pittman,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 7,pass,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 11,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 16,pass,IND,Z.Moss,Z.Moss,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,IND,MID 50,kickoff,NA,NA,NA,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 36,run,NA,NA,NA,N.Harris,Turnover
+2023-12-16,IND,PIT,IND,IND 49,no_play,NA,NA,NA,NA,Turnover
+2023-12-16,IND,PIT,IND,IND 44,run,NA,NA,NA,J.Warren,Turnover
+2023-12-16,IND,PIT,IND,MID 50,pass,NA,NA,G.Pickens,NA,Turnover
+2023-12-16,IND,PIT,PIT,IND 29,run,NA,NA,NA,T.Goodson,Turnover on downs
+2023-12-16,IND,PIT,PIT,IND 31,no_play,NA,NA,NA,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,IND 46,pass,NA,NA,A.Pierce,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,IND 46,pass,NA,NA,A.Pierce,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 41,pass,NA,NA,J.Downs,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 36,run,NA,NA,NA,T.Sermon,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 33,run,NA,NA,NA,G.Minshew,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 32,run,NA,NA,NA,T.Sermon,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 22,run,NA,NA,NA,T.Goodson,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 13,run,NA,NA,NA,T.Goodson,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 9,run,NA,NA,NA,T.Goodson,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 8,pass,NA,NA,T.Goodson,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 1,pass,NA,NA,A.Ogletree,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 1,pass,NA,NA,D.Montgomery,NA,Turnover on downs
+2023-12-16,IND,PIT,IND,PIT 2,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,PIT 4,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,PIT 8,pass,NA,NA,D.Johnson,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 26,run,NA,NA,NA,J.Warren,Punt
+2023-12-16,IND,PIT,IND,PIT 28,pass,NA,NA,A.Robinson,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 33,pass,NA,NA,P.Freiermuth,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 33,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 26,pass,NA,NA,D.Montgomery,NA,Touchdown
+2023-12-16,IND,PIT,NA,PIT 40,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 40,no_play,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 14,pass,NA,NA,A.Pierce,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 14,pass,IND,D.Montgomery,D.Montgomery,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,End of half
+2023-12-16,IND,PIT,IND,PIT 25,pass,NA,NA,D.Johnson,NA,End of half
+2023-12-16,IND,PIT,IND,PIT 25,pass,NA,NA,G.Pickens,NA,End of half
+2023-12-16,IND,PIT,IND,PIT 25,pass,NA,NA,J.Warren,NA,End of half
+2023-12-16,IND,PIT,NA,PIT 35,NA,NA,NA,NA,NA,End of half
+2023-12-16,IND,PIT,PIT,PIT 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 25,run,NA,NA,NA,T.Goodson,Punt
+2023-12-16,IND,PIT,PIT,IND 30,pass,NA,NA,T.Goodson,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 33,pass,NA,NA,D.Montgomery,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 33,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 10,run,NA,NA,NA,N.Harris,Turnover
+2023-12-16,IND,PIT,PIT,PIT 18,pass,IND,M.Alie-Cox,M.Alie-Cox,NA,Touchdown
+2023-12-16,IND,PIT,PIT,PIT 15,extra_point,NA,NA,NA,NA,Touchdown
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 25,pass,NA,NA,P.Freiermuth,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 30,run,NA,NA,NA,J.Warren,Punt
+2023-12-16,IND,PIT,IND,PIT 30,pass,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 23,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 49,run,NA,NA,NA,T.Goodson,Field goal
+2023-12-16,IND,PIT,PIT,PIT 20,pass,NA,NA,M.Alie-Cox,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 17,pass,NA,NA,M.Alie-Cox,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 17,pass,NA,NA,K.Granson,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 11,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 25,no_play,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 15,run,NA,NA,NA,J.Warren,Punt
+2023-12-16,IND,PIT,IND,PIT 24,no_play,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 14,run,NA,NA,NA,J.Warren,Punt
+2023-12-16,IND,PIT,IND,PIT 16,pass,NA,NA,D.Johnson,NA,Punt
+2023-12-16,IND,PIT,IND,PIT 41,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,PIT 48,pass,NA,NA,G.Pickens,NA,Punt
+2023-12-16,IND,PIT,IND,IND 35,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,IND 31,run,NA,NA,NA,N.Harris,Punt
+2023-12-16,IND,PIT,IND,IND 29,no_play,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,IND,IND 39,pass,NA,NA,G.Pickens,NA,Punt
+2023-12-16,IND,PIT,IND,IND 39,punt,NA,NA,NA,NA,Punt
+2023-12-16,IND,PIT,PIT,IND 17,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,IND 21,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,IND 26,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,IND 35,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,IND 42,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,IND 43,NA,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,PIT,IND 43,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,PIT 38,run,NA,NA,NA,T.Goodson,Field goal
+2023-12-16,IND,PIT,PIT,PIT 37,run,NA,NA,NA,T.Goodson,Field goal
+2023-12-16,IND,PIT,PIT,PIT 27,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,PIT 28,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,PIT 22,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,PIT 17,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,PIT,PIT 15,run,NA,NA,NA,T.Goodson,Field goal
+2023-12-16,IND,PIT,PIT,PIT 13,pass,NA,NA,A.Pierce,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 13,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 25,run,NA,NA,NA,N.Harris,Turnover
+2023-12-16,IND,PIT,IND,PIT 25,pass,NA,NA,J.Warren,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 36,pass,NA,NA,A.Robinson,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 42,pass,NA,NA,NA,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 34,no_play,NA,NA,NA,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 29,pass,NA,NA,J.Warren,NA,Turnover
+2023-12-16,IND,PIT,IND,PIT 36,pass,NA,NA,D.Johnson,NA,Turnover
+2023-12-16,IND,PIT,IND,IND 49,pass,NA,NA,G.Pickens,NA,Turnover
+2023-12-16,IND,PIT,PIT,PIT 45,run,NA,NA,NA,T.Sermon,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 42,run,NA,NA,NA,T.Sermon,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 34,run,NA,NA,NA,T.Goodson,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 31,run,NA,NA,NA,T.Sermon,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 26,run,NA,NA,NA,T.Sermon,Missed field goal
+2023-12-16,IND,PIT,NA,PIT 25,no_play,NA,NA,NA,NA,Missed field goal
+2023-12-16,IND,PIT,PIT,PIT 25,field_goal,NA,NA,NA,NA,Missed field goal
+2023-12-16,IND,PIT,IND,PIT 33,pass,NA,NA,J.Warren,NA,Turnover on downs
+2023-12-16,IND,PIT,IND,PIT 30,pass,NA,NA,P.Freiermuth,NA,Turnover on downs
+2023-12-16,IND,PIT,NA,PIT 36,no_play,NA,NA,NA,NA,Turnover on downs
+2023-12-16,IND,PIT,IND,PIT 36,pass,NA,NA,D.Johnson,NA,Turnover on downs
+2023-12-16,IND,PIT,IND,PIT 36,pass,NA,NA,NA,NA,Turnover on downs
+2023-12-16,IND,PIT,PIT,PIT 25,qb_kneel,NA,NA,NA,G.Minshew,Field goal
+2023-12-16,IND,PIT,NA,PIT 26,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 26,run,NA,NA,NA,T.Goodson,Field goal
+2023-12-16,IND,PIT,NA,PIT 25,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 25,run,NA,NA,NA,T.Sermon,Field goal
+2023-12-16,IND,PIT,NA,PIT 24,no_play,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,PIT,PIT 24,field_goal,NA,NA,NA,NA,Field goal
+2023-12-16,IND,PIT,IND,IND 35,kickoff,NA,NA,NA,NA,End of half
+2023-12-16,IND,PIT,IND,PIT 25,run,NA,NA,NA,J.Warren,End of half
+2023-12-16,IND,PIT,IND,PIT 36,run,NA,NA,NA,J.Warren,End of half
+2023-12-16,IND,PIT,IND,NA,NA,NA,NA,NA,NA,End of half

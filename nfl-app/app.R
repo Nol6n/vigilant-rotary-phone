@@ -2,6 +2,15 @@
 library(shiny)
 library(tidyverse)
 
+Whole_data <- load_pbp()
+
+
+Whole_data <- Whole_data |>
+  select(game_date, home_team,	away_team, defteam, yrdln, play_type, td_team,	td_player_name,
+         receiver_player_name, rusher_player_name, fixed_drive_result)
+
+write_csv(x = Whole_data, file = 'data/whole_data.csv')
+
 Whole_data = read_csv(file = "data/whole_data.csv")
 
 
